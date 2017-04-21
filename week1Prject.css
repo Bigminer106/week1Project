@@ -1,0 +1,66 @@
+header {
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-size: 3.5em;
+  text-align: center;
+}
+h3 {
+  font-size: 1.5em;
+  text-align: center;
+}
+nav {
+  font-size: 1.5em;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+li {
+  float: left;
+}
+li a {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: gold;
+  color: black;
+}
+.active {
+  background-color: gold;
+  color: black;
+}
+.Mega {
+  margin-top: 25px;
+}
+.column {
+  column-count: 3;
+  margin-top: 350px;
+}
+main {
+  text-align: left;
+  font-size: 22px;
+}
+main img {
+  margin-right: 25px;
+  margin-bottom: 50px;
+  float: left;
+  height: 150px;
+}
+p {
+  text-align: left;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
